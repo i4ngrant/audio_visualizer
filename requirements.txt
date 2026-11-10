@@ -1,0 +1,3 @@
+numpy
+pygame-ce        # community fork of pygame; still imported as `pygame` and supports Python 3.14
+pyaudiowpatch    # Windows only: PyAudio plus WASAPI loopback ("what you hear") capture
